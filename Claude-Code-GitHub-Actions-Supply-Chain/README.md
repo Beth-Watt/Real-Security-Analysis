@@ -78,13 +78,13 @@ With write access to `anthropics/claude-code-action`, the attacker injects backd
 
 ## Attack Chain Summary
 
-1. Create malicious GitHub App — T1585.003 — Establish Accounts: Cloud Accounts (GitHub App)
-2. Install on attacker-controlled repo — T1078 — Valid Accounts (Bot Installation Token)
-3. Open issue/PR to bypass permission check — T1190 —  Exploit Public Facing Application (Permission Check Bypass)
-4. Inject malicious prompt via issue content — T1059 — Command and Scripting Interpreter (Prompt Injection)
-5. Read workflow environment for secrets — T1552.001 — Unsecured Credentials: Credentials in Files (Environment Variables)
-6. Exchange tokens for privileged GitHub access — T1528 — Steac Application Access Token (Token Exchange)
-7. Push backdoored code to Anthropic's repo — T1195.002 — Supply Chain Compromise Software Supply Chain (Backdoor Action)
+1. Create malicious GitHub App — T1585.003: Establish Accounts: Cloud Accounts (GitHub App)
+2. Install on attacker-controlled repo — T1078: Valid Accounts (Bot Installation Token)
+3. Open issue/PR to bypass permission check — T1190:  Exploit Public Facing Application (Permission Check Bypass)
+4. Inject malicious prompt via issue content — T1059: Command and Scripting Interpreter (Prompt Injection)
+5. Read workflow environment for secrets — T1552.001: Unsecured Credentials: Credentials in Files (Environment Variables)
+6. Exchange tokens for privileged GitHub access — T1528: Steac Application Access Token (Token Exchange)
+7. Push backdoored code to Anthropic's repo — T1195.002: Supply Chain Compromise Software Supply Chain (Backdoor Action)
 
 Note: MITRE ATT&CK technique IDs were researched and verified during analysis.
 
