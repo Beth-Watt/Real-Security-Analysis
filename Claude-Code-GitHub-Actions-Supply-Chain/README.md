@@ -28,7 +28,7 @@ Since GitHub Apps have implicit read access to public repositories and can open 
 ### Step 1 — Create a Malicious GitHub App
 The attacker creates a GitHub App under their own account. No special permissions are required — just a basic installation token.
 
-**MITRE ATT&CK:** [T1585.004 – Establish Accounts: Cloud Accounts](https://attack.mitre.org/techniques/T1585/004/)
+**MITRE ATT&CK:** [T1585.003 – Establish Accounts: Cloud Accounts](https://attack.mitre.org/techniques/T1585/004/)
 
 ---
 
