@@ -9,7 +9,7 @@
 
 ## Overview
 
-This writeup analyzes a critical supply chain vulnerability discovered in Anthropic's Claude Code GitHub Actions workflow. The flaw allowed a fully unauthenticated external attacker to compromise any repository — including Anthropic's own — by chaining a permission bypass with prompt injection and token theft. No special access was required to initiate the attack.
+This writeup analyzes a critical supply chain vulnerability discovered in Anthropic's Claude Code GitHub Actions workflow. The flaw allowed a fully unauthenticated external attacker to compromise any repository, including Anthropic's own — by chaining a permission bypass with prompt injection and token theft. No special access was required to initiate the attack.
 
 This is a real-world example of how a single misconfigured trust assumption can collapse an entire security boundary.
 
