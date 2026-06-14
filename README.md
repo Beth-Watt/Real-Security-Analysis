@@ -38,7 +38,8 @@ I hold CompTIA Security+ and the Google Cybersecurity Professional Certificate, 
 | Title | Date | Key Concepts |
 |-------|------|-------------|
 [Claude Code GitHub Actions Supply Chain Vulnerability](Claude-Code-GitHub-Actions-Supply-Chain/README.md) | June 2026 | supply chain attack, prompt injection, permission misconfiguration, vendor risk |
-[Cisco SDWAN CVE 2026-20182-20245](Cisco-SDWAN-CVE-2026-20182-20245/Readme.md) | June 2026 | vulnerability chaining, authentication bypass, privilege escalation, persistent access via SSH key injection, compensating controls when no patch exists
+[Cisco SDWAN CVE 2026-20182-20245](Cisco-SDWAN-CVE-2026-20182-20245/README.md) | June 2026 | vulnerability chaining, authentication bypass, privilege escalation, persistent access via SSH key injection, compensating controls when no patch exists |
+[Splunk Enterprise RCE CVE 2026-20253](Splunk-Enterprise-RCE-CVE-2026=20253/README.md) | June 2026 | unauthenicated RCE, PostgreSQL sidecare, credential exposure, vendor risk, attack chain escalation |
 
 ---
 
