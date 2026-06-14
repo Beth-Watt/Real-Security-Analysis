@@ -38,7 +38,7 @@ I hold CompTIA Security+ and the Google Cybersecurity Professional Certificate, 
 | Title | Date | Key Concepts |
 |-------|------|-------------|
 [Claude Code GitHub Actions Supply Chain Vulnerability](Claude-Code-GitHub-Actions-Supply-Chain/README.md) | June 2026 | Supply chain attack, prompt injection, permission misconfiguration, vendor risk |
-[Cisco SDWAN CVE 2026-20182-20245](Cisco-SDWAN-CVE-2026-20182-20245/readme.md) | June 2026 | 
+[Cisco SDWAN CVE 2026-20182-20245](Cisco-SDWAN-CVE-2026-20182-20245/Readme.md) | June 2026 | 
 
 ---
 
